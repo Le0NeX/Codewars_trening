@@ -130,9 +130,17 @@
     <ClCompile Include="AllStarsCodeChallenge18.cpp" />
     <ClCompile Include="ConvertStringToArray.cpp" />
     <ClCompile Include="CountingSheep.cpp" />
+    <ClCompile Include="DescendingOrder.cpp" />
+    <ClCompile Include="DisemvowelTrolls.cpp" />
+    <ClCompile Include="ExesAndOhs.cpp" />
+    <ClCompile Include="GetTheMiddleCharacter.cpp" />
     <ClCompile Include="HighestAndLowest.cpp" />
+    <ClCompile Include="Isograms.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Mumbling.cpp" />
     <ClCompile Include="Reversed_Strings.cpp" />
+    <ClCompile Include="ShortestWord.cpp" />
+    <ClCompile Include="SumTwoLowestPositiveIntegers.cpp" />
     <ClCompile Include="Test.cpp" />
     <ClCompile Include="VowelCount.cpp" />
   </ItemGroup>
@@ -140,8 +148,18 @@
     <ClInclude Include="AllStarsCodeChallenge18.h" />
     <ClInclude Include="ConvertStringToArray.h" />
     <ClInclude Include="CountingSheep.h" />
+    <ClInclude Include="DescendingOrder.h" />
+    <ClInclude Include="DisemvowelTrolls.h" />
+    <ClInclude Include="ExesAndOhs.h" />
+    <ClInclude Include="GetTheMiddleCharacter.h" />
     <ClInclude Include="HighestAndLowest.h" />
+    <ClInclude Include="InputClassMain.h" />
+    <ClInclude Include="Isograms.h" />
+    <ClInclude Include="Mumbling.h" />
     <ClInclude Include="Reversed_Strings.h" />
+    <ClInclude Include="ShortestWord.h" />
+    <ClInclude Include="stdfx.h" />
+    <ClInclude Include="SumTwoLowestPositiveIntegers.h" />
     <ClInclude Include="Test.h" />
     <ClInclude Include="VowelCount.h" />
   </ItemGroup>
